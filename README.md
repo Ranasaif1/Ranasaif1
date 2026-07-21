@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:ranasaif9908@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-38B2AC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+ <a href="mailto:ranasaif9908@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-38B2AC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
  <a href="https://www.linkedin.com/in/saif-ur-rehman-5a9856213"><img src="https://img.shields.io/badge/LinkedIn-Connect-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
