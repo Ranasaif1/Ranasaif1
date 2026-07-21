@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="mailto:ranasaif9908@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-38B2AC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+ <a href="https://www.linkedin.com/in/saif-ur-rehman-5a9856213"><img src="https://img.shields.io/badge/LinkedIn-Connect-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### 👨‍💻 About Me
@@ -81,16 +81,7 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranasaif1&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC&t=2026" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranasaif1&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranasaif1&layout=compact&theme=tokyonight&hide_border=true&title_color=38B2AC&t=2026" alt="Top Languages" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranasaif1&theme=tokyonight&hide_border=true&title_color=38B2AC&v=1" alt="GitHub Streak" /></p>
 
 ---
 
