@@ -80,17 +80,17 @@
 
 ### 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranasaif1&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC&v=1&ignore_cache=1" alt="GitHub Stats" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranasaif1&theme=tokyonight&hide_border=true&title_color=38B2AC&v=1" alt="GitHub Streak" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranasaif1&layout=compact&theme=tokyonight&hide_border=true&title_color=38B2AC&v=1&ignore_cache=1" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranasaif1&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC&t=2026" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranasaif1&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranasaif1&layout=compact&theme=tokyonight&hide_border=true&title_color=38B2AC&t=2026" alt="Top Languages" />
+</p>
 
 ---
 
