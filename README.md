@@ -27,23 +27,35 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Web & AI Development:**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<h3><img src="https://img.shields.io/badge/🔗_TECH_STACK-6f42c1?style=for-the-badge" alt="Tech Stack"></h3>
+
+---
+
+<p align="center">
+  <!-- Baray Square Icons (Skill Icons) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,tailwind,nodejs,mongodb,python,vite" alt="My Skills" />
+  </a>
 </p>
 
-**E-commerce / Amazon FBA Tools:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Keepa-212121?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Helium_10-00AEEF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SellerAmp-FF6B6B?style=for-the-badge" />
+<p align="center">
+  <!-- Rectangular Badges (Row 1: Web & Dev) -->
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Rectangular Badges (Row 2: AI, 3D & Amazon) -->
+  <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/KEEPA-212121?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HELIUM_10-00AEEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SELLERAMP-FF6B6B?style=for-the-badge" />
 </p>
 
 ---
