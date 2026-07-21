@@ -70,9 +70,11 @@
 
 | Project | Description | Tech Stack / Tools |
 | :--- | :--- | :--- |
+| **Zarvix Digital Store** | The official corporate website and digital storefront for Zarvix Digital. | React, Tailwind CSS |
+| **Zarvix E-commerce Suite** | A robust e-commerce platform hosted on store.zarvixdigital.com featuring live domain provisioning. | React, Node.js, Phython, Vercel |
 | **Hybrid Fake News Detection System** | University FYP featuring an 8-layer verification architecture and multilingual text support for deepfake/fake news detection. | Machine Learning, Deep Learning, mBERT, XLM-R |
 | **zarvix-Resume** | A web-based resume builder application with cloud backend storage configurations and GitHub version control. | React, Node.js, Vercel |
-| **3D Planetary Motion Landing Page** | A high-quality interactive web platform integrating immersive 3D graphics and planetary motion. | Three.js, React Three Fiber, React Three Drei |
+| **FX Fitness App** *(In Progress)* | A modern fitness tracking and management application currently under active development. | React Native, JavaScript |
 
 ---
 
@@ -82,4 +84,34 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ranasaif1&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranasaif1&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🚀 Connect With Me
+
+
+
+<div align="center">
+  <br>
+
+  <!-- Animated Text Banner -->
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Let's+build+innovative+solutions+together." alt="Let's build innovative solutions together." />
+  </a>
+
+  <br><br>
+
+  <!-- Working Action Buttons -->
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Schedule_Meeting-38B2AC?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule Meeting" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/View_Full_CV_(PDF)-9370DB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Full CV (PDF)" /></a>
+    <a href="https://github.com/Ranasaif1?tab=repositories"><img src="https://img.shields.io/badge/Favorite_Projects-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Favorite Projects" /></a>
+  </p>
+
+  <br>
+
+  <p align="center">
+    <i>© 2026 Saif ur Rehman (Sam). Based in Karachi, Pakistan.</i>
+  </p>
 </div>
