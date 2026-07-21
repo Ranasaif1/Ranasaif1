@@ -27,10 +27,6 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<h3><img src="https://img.shields.io/badge/🔗_TECH_STACK-6f42c1?style=for-the-badge" alt="Tech Stack"></h3>
-
----
-
 <p align="center">
   <!-- Baray Square Icons (Skill Icons) -->
   <a href="https://skillicons.dev">
