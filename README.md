@@ -1,63 +1,72 @@
-<h1 align="center">
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Initiating+Profile:+%5BSaif+ur+Rehman%5D...;DIGITAL+ARCHITECT:+TRANSFORMING+IDEAS+INTO+REALITY;Building+Intelligent+Systems+%26+Scalable+Products" alt="Typing SVG" />
-  </a>
-</h1>
+<!-- Professional Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=220&section=header&text=Saif%20ur%20Rehman%20(Sam)&fontSize=50&desc=Software%20Engineer%20%7C%20Co-founder%20@%20Zarvix%20Digital&descAlignY=70&descAlign=50&fontColor=ffffff" alt="Banner" />
+</div>
 
-Greetings, I'm Saif ur Rehman (Sam) 👋 Software Engineer & Full-Stack Developer.
-A dedicated developer focused on robust architectures, native mobile apps, and interactive 3D web experiences. Exploring the frontiers of Cloud-Native Tech, AI/ML, and immersive Web.
+<h3 align="center">Building Intelligent Systems & Scalable Products | AI Automation | 3D Architectures</h3>
+
+<p align="center">
+  <a href="mailto:ranasaif9908@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-38B2AC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing a Bachelor of Science in Software Engineering at Ilma University.
-- 💼 Co-founder & Partner at **Zarvix Digital**.
-- 🌱 Currently deep diving into **3D web graphics (Three.js)** and **AI/ML frameworks**.
-- 💬 Ask me about **React, Node.js, Tailwind CSS, or Amazon FBA**.
-- 📫 How to reach me: **info@zarvixdigital.com**
+* 🎓 I have successfully completed my **Bachelor of Science in Software Engineering (BSSE)** from **Ilma University**, Karachi.
+* 💼 **Co-founder & Partner** at **Zarvix Digital** ("Where innovation meets results"), managing the sales and operational side.
+* 🛒 Results-driven **Amazon Virtual Assistant** and **FBA Wholesale Specialist** with 3+ years of experience.
+* 🌱 Deeply interested in **3D web graphics** (Three.js) and **AI/ML frameworks** for text and multimedia classification.
+* 🗣️ Multilingual: Fluent in Urdu and Punjabi, with Professional Working Proficiency in English.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
+**Web & AI Development:**
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+**E-commerce / Amazon FBA Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Keepa-212121?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Helium_10-00AEEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SellerAmp-FF6B6B?style=for-the-badge" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 💼 Professional Experience
 
-| 🛒 Zarvix E-commerce Suite | 📄 zarvix-Resume Builder Pro |
-| :--- | :--- |
-| A high-performance B2B & B2C e-commerce platform with microservices, real-time inventory synchronization, and a custom API, deployed globally. | An AI-powered progressive resume builder with adaptive templates, real-time preview, pixel-perfect PDF export, and a modern dark-mode UI. |
-| **Tech Stack:** *React, Node.js, Vercel, PostgreSQL* | **Tech Stack:** *React, Node.js, Vercel* |
-
-<br>
-
-| 🕵️ Fake News Detection System | 🪐 3D Product Configurator |
-| :--- | :--- |
-| Hybrid Forensic Fake News & Deepfake Detection System (FYP) featuring an 8-layer verification architecture and multilingual text support. | An interactive product visualizer using Three.js, allowing customers to customize and view products with realistic lighting and materials. |
-| **Tech Stack:** *Python, ML, mBERT, XLM-R* | **Tech Stack:** *Three.js, React Three Fiber, WebGL* |
+| Role | Company | Duration |
+| :--- | :--- | :--- |
+| **Co-founder & Partner** | **Zarvix Digital** | Present |
+| **Account Executive** | **Nexhive LLP** | Oct 2025 – May 2026 |
+| **Remote Intern** | **Looplink** | Sep 2022 – Oct 2023 |
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 🚀 Major Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="GitHub Stats" />
-</p>
+| Project | Description | Tech Stack / Tools |
+| :--- | :--- | :--- |
+| **Hybrid Fake News Detection System** | University FYP featuring an 8-layer verification architecture and multilingual text support for deepfake/fake news detection. | Machine Learning, Deep Learning, mBERT, XLM-R |
+| **zarvix-Resume** | A web-based resume builder application with cloud backend storage configurations and GitHub version control. | React, Node.js, Vercel |
+| **3D Planetary Motion Landing Page** | A high-quality interactive web platform integrating immersive 3D graphics and planetary motion. | Three.js, React Three Fiber, React Three Drei |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="GitHub Streak" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="Top Languages" />
-</p>
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranasaif1&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranasaif1&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="GitHub Streak" />
+</div>
