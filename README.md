@@ -3,7 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=220&section=header&text=Saif%20ur%20Rehman%20(Sam)&fontSize=50&desc=Software%20Engineer%20%7C%20Co-founder%20@%20Zarvix%20Digital&descAlignY=70&descAlign=50&fontColor=ffffff" alt="Banner" />
 </div>
 
-<h3 align="center">Building Intelligent Systems & Scalable Products | AI Automation | 3D Architectures</h3>
+<h1 align="center">
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Initiating+Profile:+%5BSaif+ur+Rehman%5D...;DIGITAL+ARCHITECT:+TRANSFORMING+IDEAS+INTO+REALITY;Building+Intelligent+Systems+%26+Scalable+Products" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="mailto:ranasaif9908@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-38B2AC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
